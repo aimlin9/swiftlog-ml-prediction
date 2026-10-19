@@ -1,0 +1,23 @@
+target,feature,test,statistic,p_value,significant_5pct
+delayed,WarehouseID,chi-square,15.76,0.328,False
+delayed,wh_location,chi-square,1.03,0.598,False
+delayed,City,chi-square,6.27,0.099,False
+delayed,month,chi-square,8.6,0.378,False
+delayed,dow,chi-square,3.16,0.789,False
+delayed,n_lines,Mann-Whitney U,2821344.0,0.157,False
+delayed,qty,Mann-Whitney U,2837688.0,0.289,False
+delayed,value,Mann-Whitney U,2808960.0,0.1,False
+delayed,avg_price,Mann-Whitney U,2785548.0,0.034,True
+delayed,wh_load,Mann-Whitney U,2896540.0,0.889,False
+delayed,cust_prior_orders,Mann-Whitney U,2872175.0,0.718,False
+returned,WarehouseID,chi-square,15.59,0.339,False
+returned,wh_location,chi-square,1.11,0.573,False
+returned,City,chi-square,4.61,0.203,False
+returned,month,chi-square,5.91,0.657,False
+returned,dow,chi-square,3.33,0.767,False
+returned,n_lines,Mann-Whitney U,1072658.0,0.945,False
+returned,qty,Mann-Whitney U,1087346.0,0.576,False
+returned,value,Mann-Whitney U,1075580.0,0.869,False
+returned,avg_price,Mann-Whitney U,1054502.0,0.589,False
+returned,wh_load,Mann-Whitney U,1046276.0,0.414,False
+returned,cust_prior_orders,Mann-Whitney U,1071529.0,0.976,False
