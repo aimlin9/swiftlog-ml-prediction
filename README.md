@@ -32,7 +32,7 @@ Week5_MachineLearning_SwiftLog_Ramsey/
   Models/          Best_Model.pkl, Model_Comparison.xlsx, Feature_Importance.png, metrics.json, All_Models/
   App/             app.py, requirements.txt, assets/
   Reports/         Technical_Report.pdf, Executive_Summary.pdf, Figures/
-  Presentation/    Executive_Presentation.pptx
+  Presentation/    Executive_Presentation.pptx, Executive_Presentation_Video.mp4, Recording/
   References/      references.md
   README.md
 ```
